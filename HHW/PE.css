@@ -1,0 +1,72 @@
+ul {
+    font-family: 'BIZ UDGothic', sans-serif;
+    margin-left: 60px;
+  
+  }
+  
+  ul li {
+  list-style: none;
+  
+  
+  line-height: 100px;
+    
+  }
+  ul li a {
+  
+  text-decoration: none;
+  font-size: 20px;
+  padding: 0 30px;
+  display: block;
+  
+  color: #ffffffd2;
+    
+  }
+  
+  
+  *{
+  
+  margin: 0cm;
+  padding: 0%;
+  
+  }
+  
+  
+  nav{
+  
+    width: 200px;
+    height: 1600px;
+    background-image : linear-gradient(180deg, rgb(247, 212, 149),rgb(240, 188, 140),rgb(247, 190, 152),rgb(241, 177, 147),rgb(231, 146, 146))
+  
+     }
+
+  h1{
+
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(255, 99, 99, 0.801), 0 0 25px rgba(255, 0, 200, 0.993), 0 0 5px rgba(234, 71, 255, 0.747);
+    color: azure;
+    position: absolute;
+    left: 500px;
+    font-family: 'Righteous', cursive;
+    font-weight: lighter;
+    }
+    
+    p{
+      position: absolute;
+      margin-left: 250px;
+      margin-right: 100px;
+      margin-top: 70px;
+      font-family: 'Righteous', cursive;
+      font-weight: unset;
+      color: azure;
+      background-size: 100%;
+      font-size: larger;
+      text-shadow: 1px 1px 2px rgba(255, 99, 99, 0.801), 0 0 25px rgba(255, 0, 200, 0.993), 0 0 5px rgba(234, 71, 255, 0.747);
+    }
+
+    img{
+      margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+    
+    }

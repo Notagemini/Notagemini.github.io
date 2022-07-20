@@ -1,0 +1,114 @@
+ul {
+    font-family: 'BIZ UDGothic', sans-serif;
+    margin-left: 60px;
+  
+  }
+  
+  ul li {
+  list-style: none;
+  
+  
+  line-height: 100px;
+    
+  }
+  
+  ul li a {
+  
+  text-decoration: none;
+  font-size: 20px;
+  padding: 0 30px;
+  display: block;
+  
+  color: #ffffffd2;
+    
+  }
+  
+  *{
+  
+  margin: 0cm;
+  padding: 0%;
+  
+  }
+  
+  nav{
+  
+    width: 200px;
+    height: 1700px;
+    background-image : linear-gradient(180deg, rgb(247, 212, 149),rgb(240, 188, 140),rgb(247, 190, 152),rgb(241, 177, 147),rgb(231, 146, 146))
+  
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 700px;
+    position: absolute;
+    margin-left: 400px;
+ 
+    margin-top: 200px;
+  }
+  
+  td, th {
+    border: 1px solid #af8b8b;
+    text-align: left;
+    padding: 8px;
+    width: auto;
+    font-family: 'Edu SA Beginner', cursive ;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #a7eec4c0;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #c8b8db94;
+  }
+
+  p{
+    position: absolute;
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: 'Edu SA Beginner', cursive;
+    color: rgba(0, 0, 0, 0.952);
+    text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(236, 105, 105), 0 0 5px rgb(105, 105, 228);
+    margin-top: 2000px;
+
+   }
+
+   h1{
+    top: 30px;
+    right: 15%;
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Edu SA Beginner', cursive;
+    color: rgba(0, 0, 0, 0.952);
+    text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(236, 105, 105), 0 0 5px rgb(105, 105, 228);
+ }
+
+ img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+h5{
+  position: absolute;
+margin-left: 450px;
+margin-top: 550px;
+font-family: 'Edu SA Beginner', cursive;
+color: rgba(0, 0, 0, 0.952);
+text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(236, 105, 105), 0 0 5px rgb(105, 105, 228);
+font-size: larger;
+}
+
+h4{
+  position: absolute;
+  margin-left: 670px;
+  margin-top: 550px;
+  font-family: 'Edu SA Beginner', cursive;
+  color: rgba(0, 0, 0, 0.952);
+  text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(236, 105, 105), 0 0 5px rgb(105, 105, 228);
+  font-size: larger;
+  }
+
